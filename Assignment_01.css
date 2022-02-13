@@ -1,0 +1,58 @@
+.first,.second,.third {
+    display: flex;
+    column-gap: 40px;
+    
+}
+
+.second{
+    display: flex;
+    column-gap: 40px;
+    padding-left: 270px;
+    
+}
+
+.third {
+    display: flex;
+    column-gap: 40px;
+    
+}
+
+h1 {
+     color: slategray;
+     font-family: Arial, sans-serif;
+}
+
+h3 {
+    color: black;
+    font-family: Arial, sans-serif;
+}
+
+ul {
+    color: slategrey;
+    font-family: Arial, sans-serif;
+}
+
+.A {
+    color: slategrey;
+    font-family: Arial, sans-serif;
+}
+
+
+.Box_1,.Box_2,.Box_3 {
+            
+         
+            padding: 10px;
+            height: 395px;
+            width: 280px;
+            background-color: white;
+            overflow-wrap: break-word;
+            border: solid;
+            border-width: 1px;
+            color: slategrey;
+            font-family: Arial, sans-serif;
+
+}
+
+.Total {
+    padding-left: 20px;
+}
